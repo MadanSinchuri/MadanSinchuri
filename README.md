@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java and c++.
 - 💞️ I’m looking to collaborate on my personal projects.
 - 📫 How to reach me madansinchuri19@gmail.com
-- 😄 Pronouns: music
 - ⚡ Fun fact: silent killer, 
 
 <!---
